@@ -3,15 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MdShokoth/Machine_Learning_Project"><img src="https://img.shields.io/badge/Explore-ML_Projects-0F766E?style=for-the-badge" alt="Explore ML projects" /></a>
-  <a href="https://www.linkedin.com/in/md-shokoth-hossain-474b04197"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://www.behance.net/mdshokothhoosain"><img src="https://img.shields.io/badge/View-Design_Portfolio-1E293B?style=for-the-badge" alt="View design portfolio on Behance" /></a>
-  <a href="mailto:mdshokothhossain@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-B45309?style=for-the-badge" alt="Contact by email" /></a>
+<a href="https://sites.google.com/view/connecttoantor"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge" alt="Personal website" /></a>
+<a href="https://github.com/MdShokoth/Computer_Vision_Projects"><img src="https://img.shields.io/badge/Computer_Vision-0F766E?style=for-the-badge" alt="Computer vision projects" /></a>
+<a href="https://github.com/MdShokoth/Machine_Learning_Project"><img src="https://img.shields.io/badge/ML_Projects-1E293B?style=for-the-badge" alt="Machine learning projects" /></a>
+<a href="https://www.linkedin.com/in/md-shokoth-hossain-474b04197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/mdshokothhoosain"><img src="https://img.shields.io/badge/Behance-1E293B?style=for-the-badge" alt="Behance design portfolio" /></a>
+<a href="mailto:mdshokothhossain@gmail.com"><img src="https://img.shields.io/badge/Email-B45309?style=for-the-badge" alt="Email" /></a>
 </p>
 
 <p align="center"><b>BUET · B.Sc. in IPE, 2024</b> &nbsp; | &nbsp; <b>CGPA 3.86/4.00</b> &nbsp; | &nbsp; <b>Rank 3/50</b> &nbsp; | &nbsp; <b>Dean’s List — all four years</b></p>
 
-<p align="center"><a href="#research">Research</a> · <a href="#python--machine-learning-projects">Python projects</a> · <a href="#engineering-design--simulation">Design &amp; simulation</a> · <a href="#experience">Experience</a> · <a href="#current-learning--research-direction">Learning &amp; direction</a></p>
+<p align="center"><a href="#research">Research</a> · <a href="#computer-vision-projects">Computer vision</a> · <a href="#python--machine-learning-projects">ML projects</a> · <a href="#engineering-design--simulation">Design</a> · <a href="#experience">Experience</a> · <a href="#current-learning--research-direction">Learning</a></p>
 
 ---
 
@@ -20,6 +22,14 @@
 I am **Md. Shokoth Hossain (Antor)**, an Industrial and Production Engineering graduate from **Bangladesh University of Engineering and Technology (BUET)**. My background brings together experimental manufacturing, engineering design, industrial problem-solving, and machine learning.
 
 I enjoy working through the full engineering problem: understanding the process, collecting measurements, analyzing the data, and explaining what the results mean. My undergraduate machining research introduced me to this connection between physical experiments and predictive models. I am now strengthening my Python and AI skills to explore **intelligent manufacturing, process monitoring, and decision support**.
+
+## Featured repositories
+
+| Computer vision | Machine learning |
+| :--- | :--- |
+| [**Computer_Vision_Projects →**](https://github.com/MdShokoth/Computer_Vision_Projects) | [**Machine_Learning_Project →**](https://github.com/MdShokoth/Machine_Learning_Project) |
+| Image/video processing, human landmarks, YOLO inference, OCR, segmentation, inpainting, and motion detection | 11 project folders covering classification and regression, plus an image-processing notebook |
+| Course-based demonstrations, documented corrections, setup guidance, and a processing preview | Python scripts and Jupyter notebooks documenting applied ML practice |
 
 ## Research
 
@@ -38,6 +48,30 @@ I enjoy working through the full engineering problem: understanding the process,
 **Hands-on experience:** nanofluid preparation, tool–work thermocouple calibration, turning experiments, and chip-thickness measurement.
 
 **Research takeaway:** the effect of nanofluid concentration depended on the machining conditions. This strengthened my interest in models that remain useful when process conditions change.
+
+## Computer vision projects
+
+[**Explore the computer vision repository →**](https://github.com/MdShokoth/Computer_Vision_Projects)
+
+My practical computer vision work progresses from image fundamentals to pretrained model demonstrations:
+
+| Foundation | Applied demonstrations |
+| :--- | :--- |
+| Reading images, videos, and webcams | Face, hand, and body-pose detection with CVZone/MediaPipe |
+| Grayscale, blur, resizing, and edge detection | YOLO inference using a supplied checkpoint |
+| Drawing, shape contours, and HSV color filtering | Florence-2 OCR and Mask2Former semantic segmentation |
+| Consecutive-frame motion detection | Stable Diffusion image inpainting |
+
+These are **course-based learning implementations**, with source attribution and improvements documented in the repository. They have not been evaluated as manufacturing inspection systems.
+
+<details>
+<summary><b>View an image-processing example</b></summary>
+
+<img src="https://raw.githubusercontent.com/MdShokoth/Computer_Vision_Projects/main/image_processing_preview.png" width="700" alt="Actual OpenCV processing preview: original synthetic shapes, grayscale, Gaussian blur, and Canny edges" />
+
+Actual output using the included synthetic sample. This illustrates processing operations rather than model accuracy.
+
+</details>
 
 ## Python & machine-learning projects
 
@@ -58,7 +92,7 @@ These are learning projects. I am improving their documentation and reproducibil
 
 ## Engineering design & simulation
 
-My academic projects extend beyond programming into product development, CAD, engineering analysis, and simulation.
+My academic projects extend beyond programming into product development, CAD, engineering analysis, and simulation. In my product-design team, my main role involved **SolidWorks modeling and ANSYS analysis**, while we worked together on material selection, cost, and structural considerations.
 
 | Project | Tools and focus |
 | :--- | :--- |
@@ -68,7 +102,7 @@ My academic projects extend beyond programming into product development, CAD, en
 | Royal Enfield motorcycle model | **CATIA** — 3D modeling |
 | Casting project | Pattern and mold preparation, sand preparation, and casting |
 
-[**Visit my Behance portfolio →**](https://www.behance.net/mdshokothhoosain)
+[**Personal website →**](https://sites.google.com/view/connecttoantor) · [**Product-design work →**](https://sites.google.com/view/connecttoantor/portfolio/recent-works) · [**Behance portfolio →**](https://www.behance.net/mdshokothhoosain)
 
 ## Experience
 
@@ -99,7 +133,7 @@ My academic projects extend beyond programming into product development, CAD, en
 | :--- | :--- |
 | Python and AI/ML | Building practical skills through **AI/ML Expert with Phitron** and project work |
 | Deep learning | Learning neural-network foundations, TensorFlow, and Keras |
-| Computer vision | Learning foundational concepts and practicing image processing |
+| Computer vision | Practicing OpenCV, human-landmark detection, YOLO inference, OCR, segmentation, and inpainting |
 | Mathematics for ML | Strengthening the mathematical foundations of ML and deep learning |
 | Physics-informed machine learning | Learning how physical equations, initial conditions, and boundary conditions can guide model training |
 | Digital twins | Research interest in connecting observations, simulation, and predictive models |
@@ -120,4 +154,4 @@ My academic projects extend beyond programming into product development, CAD, en
 
 <p align="center"><b>Preparing for PhD study in Fall 2027</b><br />Interested in data-driven manufacturing, intelligent process monitoring, and physics-informed learning.</p>
 
-<p align="center"><a href="mailto:mdshokothhossain@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/md-shokoth-hossain-474b04197">LinkedIn</a> · <a href="https://www.behance.net/mdshokothhoosain">Behance</a></p>
+<p align="center"><a href="https://sites.google.com/view/connecttoantor">Website</a> · <a href="mailto:mdshokothhossain@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/md-shokoth-hossain-474b04197">LinkedIn</a> · <a href="https://www.behance.net/mdshokothhoosain">Behance</a></p>
