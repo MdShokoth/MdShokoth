@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://sites.google.com/view/connecttoantor"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge" alt="Personal website" /></a>
+<a href="https://sites.google.com/view/md-shokoth-hossain/home"><img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge" alt="Personal website" /></a>
 <a href="https://github.com/MdShokoth/Computer_Vision_Projects"><img src="https://img.shields.io/badge/Computer_Vision-0F766E?style=for-the-badge" alt="Computer vision projects" /></a>
 <a href="https://github.com/MdShokoth/Machine_Learning_Project"><img src="https://img.shields.io/badge/ML_Projects-1E293B?style=for-the-badge" alt="Machine learning projects" /></a>
 <a href="https://www.linkedin.com/in/md-shokoth-hossain-474b04197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
@@ -111,7 +111,7 @@ My academic projects extend beyond programming into product development, CAD, en
 | Royal Enfield motorcycle model | **CATIA** — 3D modeling |
 | Casting project | Pattern and mold preparation, sand preparation, and casting |
 
-[**Personal website →**](https://sites.google.com/view/connecttoantor) · [**Product-design work →**](https://sites.google.com/view/connecttoantor/portfolio/recent-works) · [**Behance portfolio →**](https://www.behance.net/mdshokothhoosain)
+[**Personal website →**](https://sites.google.com/view/md-shokoth-hossain/home) · [**Product-design work →**](https://sites.google.com/view/md-shokoth-hossain/portfolio) · [**Behance portfolio →**](https://www.behance.net/mdshokothhoosain)
 
 ## Experience
 
@@ -163,4 +163,4 @@ My academic projects extend beyond programming into product development, CAD, en
 
 <p align="center"><b>Preparing for PhD study in Fall 2027</b><br />Interested in data-driven manufacturing, intelligent process monitoring, and physics-informed learning.</p>
 
-<p align="center"><a href="https://sites.google.com/view/connecttoantor">Website</a> · <a href="mailto:mdshokothhossain@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/md-shokoth-hossain-474b04197">LinkedIn</a> · <a href="https://www.behance.net/mdshokothhoosain">Behance</a></p>
+<p align="center"><a href="https://sites.google.com/view/md-shokoth-hossain/home">Website</a> · <a href="mailto:mdshokothhossain@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/md-shokoth-hossain-474b04197">LinkedIn</a> · <a href="https://www.behance.net/mdshokothhoosain">Behance</a></p>
