@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+<title id="title">Md. Shokoth Hossain — Engineering, data, and intelligent manufacturing</title>
+<desc id="desc">Navy banner with teal and amber accents. Industrial and Production Engineering graduate from BUET, working toward AI for manufacturing.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1730"/><stop offset="1" stop-color="#142d46"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#5c8da4" stroke-opacity=".10"/></pattern></defs>
+<rect width="1440" height="420" rx="20" fill="url(#bg)"/>
+<rect width="1440" height="420" rx="20" fill="url(#grid)"/>
+<rect x="64" y="62" width="54" height="5" rx="2" fill="#2dd4bf"/>
+<text x="64" y="108" fill="#81e6d9" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="3">ENGINEERING · DATA · INTELLIGENT MANUFACTURING</text>
+<text x="60" y="188" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Md. Shokoth Hossain</text>
+<text x="64" y="237" fill="#c7d9e7" font-family="Arial, Helvetica, sans-serif" font-size="27">Industrial &amp; Production Engineering graduate · BUET</text>
+<text x="64" y="276" fill="#c7d9e7" font-family="Arial, Helvetica, sans-serif" font-size="26">Connecting manufacturing knowledge with machine learning</text>
+<rect x="64" y="320" width="275" height="48" rx="24" fill="#163c50" stroke="#2dd4bf" stroke-opacity=".55"/>
+<text x="201" y="351" text-anchor="middle" fill="#a1f0e4" font-family="Arial, Helvetica, sans-serif" font-size="21">PYTHON &amp; MACHINE LEARNING</text>
+<rect x="356" y="320" width="250" height="48" rx="24" fill="#163c50" stroke="#2dd4bf" stroke-opacity=".55"/>
+<text x="481" y="351" text-anchor="middle" fill="#a1f0e4" font-family="Arial, Helvetica, sans-serif" font-size="21">EXPERIMENTAL RESEARCH</text>
+<rect x="623" y="320" width="195" height="48" rx="24" fill="#423c2e" stroke="#fbbf24" stroke-opacity=".55"/>
+<text x="720" y="351" text-anchor="middle" fill="#fde2a1" font-family="Arial, Helvetica, sans-serif" font-size="21">DESIGN &amp; SIMULATION</text>
+<g transform="translate(1185 220)" fill="none"><circle r="140" stroke="#2dd4bf" stroke-opacity=".15" stroke-width="2"/><circle r="103" stroke="#2dd4bf" stroke-opacity=".3" stroke-width="2"/><path d="M-90 0L-45-78H45L90 0 45 78H-45Z" stroke="#5eead4" stroke-width="3"/><path d="M-90 0H90M-45-78L45 78M45-78L-45 78" stroke="#5eead4" stroke-opacity=".3" stroke-width="2"/><circle r="24" fill="#142d46" stroke="#fbbf24" stroke-width="3"/><circle cx="-45" cy="-78" r="7" fill="#5eead4"/><circle cx="90" r="7" fill="#5eead4"/><circle cx="-45" cy="78" r="7" fill="#fbbf24"/></g>
+<rect x="0" y="412" width="950" height="8" fill="#2dd4bf"/><rect x="950" y="412" width="490" height="8" fill="#fbbf24"/>
+</svg>
