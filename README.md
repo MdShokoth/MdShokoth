@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdShokoth/MdShokoth/main/assets/profile-banner.svg" width="100%" alt="Md. Shokoth Hossain — Engineering, data, and intelligent manufacturing" />
+  <img src="https://raw.githubusercontent.com/MdShokoth/MdShokoth/4fb42199e4898893179543dae106ac26ddf68ccd/assets/profile-banner.svg" width="100%" alt="Md. Shokoth Hossain — Engineering, data, and intelligent manufacturing" />
 </p>
 
 <p align="center">
