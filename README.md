@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdShokoth/MdShokoth/4fb42199e4898893179543dae106ac26ddf68ccd/assets/profile-banner.svg" width="100%" alt="Md. Shokoth Hossain — Engineering, data, and intelligent manufacturing" />
+  <img src="https://raw.githubusercontent.com/MdShokoth/MdShokoth/a5723585a5b5cf44dec7a5b29c80a4d5a41262b5/assets/profile-banner.svg" width="100%" alt="Md. Shokoth Hossain — Engineering, data, and intelligent manufacturing" />
 </p>
 
 <p align="center">
@@ -11,15 +11,15 @@
 <a href="mailto:mdshokothhossain@gmail.com"><img src="https://img.shields.io/badge/Email-B45309?style=for-the-badge" alt="Email" /></a>
 </p>
 
-<p align="center"><b>BUET · B.Sc. in IPE, 2024</b> &nbsp; | &nbsp; <b>CGPA 3.86/4.00</b> &nbsp; | &nbsp; <b>Rank 3/50</b> &nbsp; | &nbsp; <b>Dean’s List — all four years</b></p>
+<p align="center"><b>BUET · B.Sc. in IPE, 2024</b> &nbsp; | &nbsp; <b>CGPA 3.86/4.00</b></p>
 
-<p align="center"><a href="#research">Research</a> · <a href="#computer-vision-projects">Computer vision</a> · <a href="#python--machine-learning-projects">ML projects</a> · <a href="#engineering-design--simulation">Design</a> · <a href="#experience">Experience</a> · <a href="#current-learning--research-direction">Learning</a></p>
+<p align="center"><a href="#research">Research</a> · <a href="#computer-vision-projects">Computer vision</a> · <a href="#deep-learning-projects">Deep Learning</a> · <a href="#python--machine-learning-projects">ML projects</a> · <a href="#engineering-design--simulation">Design</a> · <a href="#experience">Experience</a> · <a href="#current-learning--research-direction">Learning</a></p>
 
 ---
 
 ## About me
 
-I am **Md. Shokoth Hossain (Antor)**, an Industrial and Production Engineering graduate from **Bangladesh University of Engineering and Technology (BUET)**. My background brings together experimental manufacturing, engineering design, industrial problem-solving, and machine learning.
+I am **Md. Shokoth Hossain (Antor)**, an Industrial and Production Engineering Graduate from **Bangladesh University of Engineering and Technology (BUET)**. My background brings together experimental manufacturing, engineering design, industrial problem-solving, and machine learning.
 
 I enjoy working through the full engineering problem: understanding the process, collecting measurements, analyzing the data, and explaining what the results mean. My undergraduate machining research introduced me to this connection between physical experiments and predictive models. I am now strengthening my Python and AI skills to explore **intelligent manufacturing, process monitoring, and decision support**.
 
@@ -90,6 +90,15 @@ My public repository contains **11 ML project folders** and an **image-processin
 
 These are learning projects. I am improving their documentation and reproducibility as I develop my skills.
 
+## Deep Learning Projects
+
+I have implemented the coding exercises and projects while following the **Deep Learning with TensorFlow, Keras, and Python** tutorial series. This practical work complements my machine-learning and computer-vision projects and helps me connect neural-network concepts with Python implementation.
+
+**Tools:** Python · TensorFlow · Keras  
+**Approach:** Course-based implementations and hands-on coding practice.
+
+[**View the deep learning course and project reference →**](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+
 ## Engineering design & simulation
 
 My academic projects extend beyond programming into product development, CAD, engineering analysis, and simulation. In my product-design team, my main role involved **SolidWorks modeling and ANSYS analysis**, while we worked together on material selection, cost, and structural considerations.
@@ -132,7 +141,7 @@ My academic projects extend beyond programming into product development, CAD, en
 | Area | Current focus |
 | :--- | :--- |
 | Python and AI/ML | Building practical skills through **AI/ML Expert with Phitron** and project work |
-| Deep learning | Learning neural-network foundations, TensorFlow, and Keras |
+| Deep learning | Implementing course exercises and projects in Python with TensorFlow and Keras |
 | Computer vision | Practicing OpenCV, human-landmark detection, YOLO inference, OCR, segmentation, and inpainting |
 | Mathematics for ML | Strengthening the mathematical foundations of ML and deep learning |
 | Physics-informed machine learning | Learning how physical equations, initial conditions, and boundary conditions can guide model training |
