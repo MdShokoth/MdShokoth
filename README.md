@@ -92,12 +92,22 @@ These are learning projects. I am improving their documentation and reproducibil
 
 ## Deep Learning Projects
 
-I have implemented the coding exercises and projects while following the **Deep Learning with TensorFlow, Keras, and Python** tutorial series. This practical work complements my machine-learning and computer-vision projects and helps me connect neural-network concepts with Python implementation.
+My deep learning work includes hands-on implementation of convolutional neural networks (CNNs) for image classification using TensorFlow and Keras.
 
-**Tools:** Python · TensorFlow · Keras  
-**Approach:** Course-based implementations and hands-on coding practice.
+### Potato Disease Classification Using CNN
 
-[**View the deep learning course and project reference →**](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+A CNN-based image classification project using the PlantVillage directory dataset to classify potato leaf images into three classes.
+
+- **Data preparation:** 256 × 256 RGB images, with an 80/10/10 train-validation-test split.
+- **Model:** Sequential CNN with convolutional and max-pooling layers, followed by dense classification layers.
+- **Training:** Adam optimizer, sparse categorical cross-entropy, and up to 50 epochs.
+- **Image augmentation:** Random horizontal/vertical flips and rotations.
+- **Evaluation:** Test-set evaluation, training/validation accuracy and loss curves, and sample prediction confidence.
+- **Tools:** Python · TensorFlow · Keras · Matplotlib
+
+[**View project files and documentation →**](https://github.com/MdShokoth/MdShokoth/tree/main/Deep_Learning_Projects/Potato_Disease_Classification) · [**Open notebook →**](https://github.com/MdShokoth/MdShokoth/blob/main/Deep_Learning_Projects/Potato_Disease_Classification/potato-disease-classification-model.ipynb) · [**View Python script →**](https://github.com/MdShokoth/MdShokoth/blob/main/Deep_Learning_Projects/Potato_Disease_Classification/potato_disease_classification.py)
+
+[**Deep Learning with TensorFlow, Keras, and Python course reference →**](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 
 ## Engineering design & simulation
 
